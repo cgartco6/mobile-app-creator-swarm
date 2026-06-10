@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+generated_apps/
+.pytest_cache/
+*.lock
+.DS_Store
