@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+component_library/
+.pytest_cache/
+*.lock
+.DS_Store
