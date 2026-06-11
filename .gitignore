@@ -1,0 +1,16 @@
+**`mobile-app-creator-swarm/.gitignore`**
+```gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+generated_*/
+component_library/
+.pytest_cache/
+*.lock
+.DS_Store
+Thumbs.db
