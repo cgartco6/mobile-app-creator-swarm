@@ -1,0 +1,10 @@
+# requirements.txt for Builder Engine Swarm
+# Minimal working version - no heavy dependencies
+
+# Core
+argparse
+
+# Optional (uncomment if needed later)
+# requests
+# pillow
+# numpy
